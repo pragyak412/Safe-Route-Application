@@ -10,11 +10,11 @@ The app is installed by installing the app-release.apk in the mobile.
 Safe-Route-Application/app/release/app-release.apk
 ```
 
-##Usage
+## Usage
 
 The folling video show a demo of the app.
 
-##Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
