@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">saferoute1</string>
+
+    <string-array name="place_array">
+        <item>Viman Nagar</item>
+        <item> MG Road</item>
+        <item>Deccan</item>
+        <item>Koregaon</item>
+        <item>Kharadi</item>
+        <item>Magarpatta</item>
+        <item>Wagholi</item>
+        <item>Lakshmi Nagar</item>
+        <item>FC Road</item>
+    </string-array>
+
+
+</resources>
