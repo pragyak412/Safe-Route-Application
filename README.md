@@ -12,7 +12,8 @@ Safe-Route-Application/app/release/app-release.apk
 
 ## Usage
 
-The folling video show a demo of the app.
+The following video show a demo of the app.
+![](demo/demo.gif)
 
 ## Contributing
 
